@@ -43,6 +43,6 @@ Directions to Reach Salarjung Museum:
 ---
 
 ## Quotes
-> Learn as if you will live forever, live like you will die tomorrow. — *Mahatma Gandhi*
+> "Learn as if you will live forever, live like you will die tomorrow." — *Mahatma Gandhi*
 
-> The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. — *Winston Churchill*
+> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." — *Winston Churchill*
