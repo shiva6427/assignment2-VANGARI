@@ -29,3 +29,13 @@ Directions to Reach Salarjung Museum:
     * Birla Mandir.
 
 **[AboutMe](AboutMe.md)**
+
+---
+
+## PLACES TO VISIT
+|       City        |       Important Location      |       Time to Spend       |
+| ----------------- | ----------------------------- | ------------------------- |
+|    Warangal       |           Kakatiya Fort       |           1 Day           |
+|    Hyderabad      |           Charminar           |           1 Day           |
+|    Delhi          |           India Gate          |           2 Days          |
+|    Mumbai         |           Taj Hotel           |           3 Days          |
