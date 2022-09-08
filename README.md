@@ -46,3 +46,17 @@ Directions to Reach Salarjung Museum:
 > "Learn as if you will live forever, live like you will die tomorrow." — *Mahatma Gandhi*
 > 
 > "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." — *Winston Churchill*
+
+---
+
+## Code Fencing
+>I am trying to get the whole div clickable and this works but only with a straight link to another site. Is there a way to make it work with this text in it also:
+<https://stackoverflow.com/questions/50473898/make-entire-div-clickable>
+```
+<a href="http://example.com">
+  <div>
+     anything
+  </div>
+</a>
+```
+<https://css-tricks.com/snippets/jquery/make-entire-div-clickable/>
